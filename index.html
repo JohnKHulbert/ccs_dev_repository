@@ -55,7 +55,7 @@
 		<div class="main">
 		
 			<div style="text-align:right;">
-				<button id="swisher_is_awesome_btn_1" class="big_btn pulse" onclick='alert("Swisher is Smart and Handsome. You are lucky to have him. Click OK if you agree.")'>Click Me</button>
+				<button id="swisher_is_awesome_btn_1" class="big_btn pulse">Click Me</button>
 			</div>
 		
 			Hello World, and Welcome to Chasing Comet Studios!
@@ -102,3 +102,14 @@
 	</body>	
 	
 </html>
+
+<script>
+
+	var btn = document.getElementByid("swisher_is_awesome_btn_1");
+	
+	btn.addEventListener("click", () => {
+		alert("Swisher is Smart and Handsome. You are lucky to have him. Click OK if you agree.");
+	});
+
+
+</script>
