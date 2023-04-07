@@ -145,8 +145,12 @@
 
 <script>
 
-	document.documentElement.scrollTop = 0;
-
+	window.scroll({
+		top: 0,
+		left: 0,
+		behavior: 'smooth'
+	});
+	
 	let btn = document.getElementById("swisher_is_awesome_btn_1");
 	
 	btn.addEventListener("click", () => {
