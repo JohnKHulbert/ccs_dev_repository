@@ -34,6 +34,12 @@
 					transform: scale(1);
 				}
 			}
+			
+			.fadeout {
+				visibility: hidden;
+				opacity: 0;
+				transition: visibility 0s 2s, opacity 2s linear;
+			}
 
 		</style>
 		
@@ -107,7 +113,8 @@
 	let btn = document.getElementById("swisher_is_awesome_btn_1");
 	
 	btn.addEventListener("click", () => {
-		btn.style.display = "none";
+		btn.classList.add("fadeout");
+		//btn.style.display = "none";
 		btn.classList.remove("pulse");
 		setTimeout(() => {
 			alert("Swisher is Smart and Handsome. You are lucky to have him. Click OK if you agree.");
