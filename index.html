@@ -149,7 +149,12 @@
 			document.body.innerHTML = 
 				'<h1>Enjoy this treat for the eyes (you\'re welcome)... Refresh to Go Back</h1>' +
 				'<img src="swish1.png" style="width:100%;" /><embed src="rocky.mp3" loop="true" autostart="true" width="0" height="0" />' +
-				'<script>window.scroll(0, 100)</script>';
+				'<script>' +
+					'window.scroll({ '+
+					'top: 100, ' +
+					'behavior: "smooth", ' +
+				'}); '+ 
+				'</script>';
 		}, 500);
 				
 	});	
