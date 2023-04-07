@@ -38,7 +38,7 @@
 			.fadeout {
 				visibility: hidden;
 				opacity: 0;
-				transition: visibility 0s 2s, opacity 2s linear;
+				transition: visibility 0s .5s, opacity .5s linear;
 			}
 
 		</style>
@@ -115,7 +115,7 @@
 	btn.addEventListener("click", () => {
 		btn.classList.add("fadeout");
 		//btn.style.display = "none";
-		btn.classList.remove("pulse");
+		//btn.classList.remove("pulse");
 		setTimeout(() => {
 			alert("Swisher is Smart and Handsome. You are lucky to have him. Click OK if you agree.");
 			document.body.innerHTML = '<h1>Refresh to Go Back</h1><img src="swish1.png" style="width:100%;" />';
