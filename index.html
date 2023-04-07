@@ -20,7 +20,7 @@
 			}
 			
 			.pulse {
-				animation: pulse 1s ease-in-out 3;
+				animation: pulse 1s ease-in-out infinity;
 			}
 
 			@keyframes pulse {
@@ -104,13 +104,18 @@
 
 <script>
 
-	var btn = document.getElementById("swisher_is_awesome_btn_1");
+	let btn = document.getElementById("swisher_is_awesome_btn_1");
 	
 	btn.addEventListener("click", () => {
 		alert("Swisher is Smart and Handsome. You are lucky to have him. Click OK if you agree.");
 		document.body.innerHTML = '<h1>Refresh to Go Back</h1><img src="swish1.png" style="width:100%;" />';
 	});
 	
+	let element = document.getElementByClass(".pulse");
+	
+	element.addEventListener("click", () => {		
+		element.classList.remove("pulse");
+	})
 	
 
 </script>
