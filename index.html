@@ -15,6 +15,22 @@
 				font-size: 130%;
 				font-family: Arial, Helvetica, sans-serif;
 			}
+			
+			.pulse {
+				animation: pulse 1s ease-in-out infinite;
+			}
+
+			@keyframes pulse {
+				0% {
+					transform: scale(1);
+				}
+				50% {
+					transform: scale(1.1);
+				}
+				100% {
+					transform: scale(1);
+				}
+			}
 
 		</style>
 	</head>
@@ -36,7 +52,7 @@
 		<div class="main">
 		
 			<div style="text-align:right;">
-				<button id="swisher_is_awesome_btn_1" class="big_btn" onclick='alert("Swisher is Smart and Handsome. Click OK if you agree.")'>Click Me</button>
+				<button id="swisher_is_awesome_btn_1" class="big_btn pulse" onclick='alert("Swisher is Smart and Handsome. Click OK if you agree.")'>Click Me</button>
 			</div>
 		
 			Hello World, and Welcome to Chasing Comet Studios!
