@@ -23,7 +23,7 @@
 		
 		<nav>
 		
-			<button class="btn btn-primary loginbtn">Login</button>
+			<button class="btn btn-primary">Login</button>
 		
 		</nav>
 		
