@@ -45,7 +45,7 @@
 				<br />
 				<input type="password" id="password" class="form-control"></input>
 				<br />
-				<div style="text-align:right1;">
+				<div style="text-align:right;">
 					<button id="btnlogin" class="btn btn-primary redbackground redborder">Login</button>
 				</div>
 			</div>
