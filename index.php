@@ -22,16 +22,19 @@
 	<body>
 		
 		<div>
-		
+			
+			<div class="parent">
+				<div class="content">Centered Content</div>
+				<button class="btn">Button</button>
+			</div>
+			
 			<div class="center">
 			
 				<div class="toplogodiv">
 					<img class="small" src="img/ccslogo.png"/>
 				</div>
 				
-				<div class="loginbtn">
-					<button class="btn btn-primary">Login</button>
-				</div>
+				<button class="btn btn-primary loginbtn">Login</button>
 				
 			</div>
 			
