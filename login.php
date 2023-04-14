@@ -36,14 +36,18 @@
 		</div>
 		
 		<div class="container">
-			<div style="border: 1px solid black;max-width:300px;margin:auto;margin-top:20px;">
+			<div style="max-width:300px;margin:auto;margin-top:20px;">
 				<label for="username">Username</label>
 				<br />
 				<input type="text" id="username" class="form-control"></input>	
-				<br /><br />
+				<br />
 				<label for="password">Password</label>
 				<br />
 				<input type="password" id="password" class="form-control"></input>
+				<br />
+				<div style="text-align:right1;">
+					<button id="btnlogin" class="btn btn-primary redbackground redborder">Login</button>
+				</div>
 			</div>
 		</div>
 
