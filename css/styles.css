@@ -64,17 +64,6 @@ html {
 	color: black;
 }
 
-.toplogodiv {
-  text-align: center;
-  position: relative;
-}
-
-.loginbtn {
-  position: absolute;
-  top: 0;
-  right: 0;
-}
-
-.topcenter {
-  display: inline-block;
+nav {
+	border: 1px solid black;	
 }
