@@ -23,11 +23,6 @@
 		
 		<div>
 			
-			<div class="parent">
-				<div class="content">Centered Content</div>
-				<button class="btn">Button</button>
-			</div>
-			
 			<div class="center">
 			
 				<div class="toplogodiv">
