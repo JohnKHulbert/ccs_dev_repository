@@ -26,9 +26,9 @@
 				<img class="small" src="img/ccslogo.png"/>
 			</div>
 			
-			<!-- <div style="float:right;">
+			<div style="float:right;">
 				<button class="btn btn-primary">Login</button>
-			</div> -->
+			</div>
 			
 		</div>
 		
