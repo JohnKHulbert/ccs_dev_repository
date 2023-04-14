@@ -23,9 +23,9 @@
 		
 		<div>
 			
-			<div class="center">
+			<div class="toplogodiv">
 			
-				<div class="toplogodiv">
+				<div class="center">
 					<img class="small" src="img/ccslogo.png"/>
 				</div>
 				
