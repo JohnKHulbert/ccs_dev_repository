@@ -38,7 +38,7 @@
 		<div class="container">
 		
 			<div class="center">
-				<div style="max-width:100px;">
+				<div style="max-width:300px;">
 					<label for="username">Username</label>
 					<br />
 					<input type="text" id="username" class="form-control"></input>	
