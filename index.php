@@ -24,12 +24,11 @@
 		<div>
 			<div class="center">
 				<img class="small" src="img/ccslogo.png"/>
-				<button class="btn btn-primary" style="float:right;">Login</button>
 			</div>
 			
+			<button class="btn btn-primary" style="float:right;">Login</button>
+			
 		</div>
-		
-		
 		
 		<div class="container">
 			<div class="row">
