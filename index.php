@@ -22,9 +22,9 @@
 	<body>
 		
 		<div>
-			<button class="btn btn-primary" style="float:right;">Login</button>
 		
 			<div class="center">
+				<button class="btn btn-primary" style="float:right;">Login</button>
 				<img class="small" src="img/ccslogo.png"/>
 			</div>
 			
