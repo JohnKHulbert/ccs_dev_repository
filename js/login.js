@@ -2,12 +2,20 @@
 
 $(document).ready(function() {
 	
-	let username = $("#username").val();
+	$(document).on("click", "#btnlogin", function() {
+		
+		let username = $("#username").val();
+		alert(username);
+		
+		let pwd = $("#password").val();
+		alert(pwd);	
+		
+	});
 	
-	alert(username);
+	
+	
+	
+	
 	
 	
 });
-
-
-	alert(username);
