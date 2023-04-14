@@ -15,17 +15,13 @@ body {
 
 .center {
 	text-align: center;
-}
-
-.redrum {
-	font-style: red;
 }	
 
-.border1 {
-	margin:100px;
-	padding:20px;
-	border:20px solid rgb(81, 79, 79);
-	background-color: darkgrey;
+.footer_logo {
+    max-height: 100px;
+    max-width: 100px;
+    margin: auto;
+    text-align: center;
 }
 
 html {
@@ -43,22 +39,9 @@ html {
 	/*margin-right: 10px;
 	margin-left: 10px; */
 	/* height: 100%; */
-	
 }
 
-.indented_1 {
-	margin-left: 25%;
-	
-}
-
-*.logo_style {
-	float: left;
-	margin: 0;
-	padding: 0 20px 0 10px;
-	min-width: 500px;
-}
-
-.logo_style2 {
+.logo_style {
     position: absolute;
     bottom: 0;
     left: 50%;
@@ -67,66 +50,16 @@ html {
     width: 100%;
 }
 
-
-nav {
-    background-color: #333;
-    color: #fff;
-    padding: 10px;
-    text-align: center;
-	justify-content: center;
-	width: 100%;
+.redbackground {
+	background-color: red !important;
 }
 
-nav a {
-    color: #fff;
-    text-decoration: none;
-}
-
-nav li {
-    display: inline-block;
-    margin-right: 20px;
-}
-
-nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+.redborder {
+	border-color: red !important;
 }
 
 .services {
 	background-color: dark-gray;
 	margin: 50px;
 	color: black;
-}
-
-.small_img {
-	height: 100%;
-	width: 100%;
-	max-height: 270px;
-	max-width: 200px;
-	margin: auto
-}
-
-.footer_logo {
-    max-height: 100px;
-    max-width: 100px;
-    margin: auto;
-    text-align: center;
-}
-
-.redbackground {
-
-	background-color: red !important;
-}
-
-.redborder {
-
-	border-color: red !important;
-}
-
-.right {
-	float: right;
-	margin: 0;
-	padding: 0 20px 0 10px;
-	min-width: 500px;
 }
