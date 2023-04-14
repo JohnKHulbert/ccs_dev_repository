@@ -74,5 +74,6 @@
 	<script src="lib/bootstrap/bootstrap.min.js"></script>
 	<script src="lib/popper.min.js"></script>
 	<script src="js/scripts.js"></script>
+	<script src="js/login.js"></script>
 	
 </html>
