@@ -13,6 +13,10 @@ body {
 	font-weight: bold;
 }
 
+.center {
+	text-align: center !important;
+}	
+
 .footer_logo {
     max-height: 100px;
     max-width: 100px;
