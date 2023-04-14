@@ -21,19 +21,17 @@
 
 	<body>
 		
+		<nav>
+		
+			<button class="btn btn-primary loginbtn">Login</button>
+		
+		</nav>
+		
 		<div>
 			
-			<div class="toplogodiv">
-			
-				<div class="topcenter">
-					<img class="small" src="img/ccslogo.png"/>
-				</div>
-				
-				<button class="btn btn-primary loginbtn">Login</button>
-				
+			<div class="center">
+				<img class="small" src="img/ccslogo.png"/>
 			</div>
-			
-			<div style="clear:both;"></div>
 			
 		</div>
 		
