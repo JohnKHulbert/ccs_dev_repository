@@ -22,17 +22,14 @@
 	<body>
 		
 		<div>
-			<div style="float:center;">
+			<div class="center">
 				<img class="small" src="img/ccslogo.png"/>
-			</div>
-			
-			<div style="float:right;">
-				<button class="btn btn-primary">Login</button>
+				<button class="btn btn-primary" style="float:right;">Login</button>
 			</div>
 			
 		</div>
 		
-		<div style="clear:both;"></div>
+		
 		
 		<div class="container">
 			<div class="row">
