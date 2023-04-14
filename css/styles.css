@@ -71,6 +71,6 @@ nav {
 
 #loginbtn {
 	border: 2px solid;
-	border-image: linear-gradient(black, red);
+	border-image: radial-gradient(black, red);
 	border-image-slice: 1;
 }
