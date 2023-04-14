@@ -35,7 +35,19 @@
 			
 		</div>
 		
-		<div class="container"></div>
+		<div class="container">
+		
+			<div class="center">
+				<label for="username">Username</label>
+				<br />
+				<input type="text" id="username" class="form-control"></input>	
+				<br /><br />
+				<label for="password">Password</label>
+				<br />
+				<input type="password" id="password" class="form-control"></input>
+			</div>
+		
+		</div>
 
 		<div class="logo_style"></div>
 
