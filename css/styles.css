@@ -67,4 +67,5 @@ html {
 nav {
 	border: 1px solid black;
 	text-align: right;
+	padding-top: 10px;
 }
