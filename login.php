@@ -36,7 +36,7 @@
 		</div>
 		
 		<div class="container">
-			<div style="border: 1px solid black;max-width:300px;margin:auto;">
+			<div style="border: 1px solid black;max-width:300px;margin:auto;margin-top:20px;">
 				<label for="username">Username</label>
 				<br />
 				<input type="text" id="username" class="form-control"></input>	
