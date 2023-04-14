@@ -24,8 +24,15 @@
 		<div>
 		
 			<div class="center">
-				<button class="btn btn-primary" style="float:right;">Login</button>
-				<img class="small" src="img/ccslogo.png"/>
+			
+				<div class="toplogodiv">
+					<img class="small" src="img/ccslogo.png"/>
+				</div>
+				
+				<div class="loginbtn">
+					<button class="btn btn-primary">Login</button>
+				</div>
+				
 			</div>
 			
 			<div style="clear:both;"></div>

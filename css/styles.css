@@ -13,10 +13,6 @@ body {
 	font-weight: bold;
 }
 
-.center {
-	text-align: center !important;
-}	
-
 .footer_logo {
     max-height: 100px;
     max-width: 100px;
@@ -62,4 +58,19 @@ html {
 	background-color: dark-gray;
 	margin: 50px;
 	color: black;
+}
+
+.toplogodiv {
+  text-align: center;
+  position: relative;
+}
+
+.loginbtn {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.center {
+  display: inline-block;
 }
