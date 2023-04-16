@@ -27,6 +27,11 @@
 		
 		</nav>
 		
+		<form>
+			<label>email:</label>
+			<input>type="text"</input>
+		</form>
+		
 		<div>
 			
 			<div class="center">
