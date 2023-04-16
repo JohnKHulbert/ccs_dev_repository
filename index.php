@@ -27,11 +27,6 @@
 		
 		</nav>
 		
-		<form>
-			<label>email:</label>
-			<input type="text">
-		</form>
-		
 		<div>
 			
 			<div class="center">
