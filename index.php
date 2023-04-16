@@ -29,7 +29,7 @@
 		
 		<form>
 			<label>email:</label>
-			<input>type="text"</input>
+			<input type="text">
 		</form>
 		
 		<div>
