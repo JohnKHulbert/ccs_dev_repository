@@ -1,6 +1,6 @@
 <?php
 	
-	// print_markup();
+	print_markup();
 	
 	function swishtest() {
 		
