@@ -8,6 +8,8 @@
 		
 	};
 	
+	swishtest();
+	
 	function print_markup() {
 ?>
 
