@@ -1,4 +1,7 @@
 <?php
+	
+	// print_markup();
+	
 	function print_markup() {
 ?>
 
@@ -13,7 +16,6 @@
 		<link rel="stylesheet" href="css/styles.css" />
 		<link rel="stylesheet" href="lib/bootstrap/bootstrap.min.css" />
 		<link rel="shortcut icon" type="image/x-icon" href="img/favicon_ccs.png" />
-		
 		
 		<style>	
 			.nomargin {
