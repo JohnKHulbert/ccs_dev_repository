@@ -1,6 +1,12 @@
 <?php
 	
-	// print_markup();
+	print_markup();
+	
+	function swishtest() {
+		
+		echo "swishtest1"; 
+		
+	};
 	
 	function print_markup() {
 ?>
