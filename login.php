@@ -1,15 +1,6 @@
 <?php
-
-
-
-	echo "hello world";
-
-
-
+	function print_markup() {
 ?>
-
-
-
 
 <!DOCTYPE html>
 
@@ -90,3 +81,8 @@
 	<script src="js/login.js"></script>
 	
 </html>
+
+<?php
+	};
+?>
+
