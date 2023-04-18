@@ -1,5 +1,7 @@
 <?php
 	
+	swishtest();
+	
 	print_markup();
 	
 	function swishtest() {
@@ -7,8 +9,7 @@
 		echo "swishtest1"; 
 		
 	};
-	
-	swishtest();
+
 	
 	function print_markup() {
 ?>
