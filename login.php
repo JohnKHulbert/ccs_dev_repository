@@ -6,9 +6,7 @@
 	
 	function nav_markup() {
 		
-		?>
-		<div class="test">o'brian</div>
-		<?php 
+		echo '<div class="test">obrian</div>'; 
 			
 	};
 	
