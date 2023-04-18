@@ -1,15 +1,16 @@
 <?php
 	
-	swishtest();
+	nav_markup();
 	
 	print_markup();
 	
-	function swishtest() {
+	function nav_markup() {
 		
-		echo "swishtest1"; 
-		
+		?>
+		<div class="test">o'brian</div>
+		<?php 
+			
 	};
-
 	
 	function print_markup() {
 ?>
