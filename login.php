@@ -37,12 +37,6 @@
 
 	<body>
 		
-		<nav>
-		
-			<button id="logoutbtn" class="btn btn-primary redbackground redborder">Logout</button>
-		
-		</nav>
-		
 		<div>
 			
 			<div class="center">
