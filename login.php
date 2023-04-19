@@ -2,8 +2,6 @@
 
 	include "api/includes.php";
 	
-	nav_markup();
-	
 ?>
 
 <!DOCTYPE html>
@@ -29,6 +27,8 @@
 	<body>
 		
 		<div>
+		
+			<?php nav_markup();	?>
 			
 			<div class="center">
 				<img class="small" src="img/ccslogo.png"/>
