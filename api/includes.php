@@ -3,7 +3,7 @@
 	function nav_markup() {
 		
 		?>
-		hello world
+		hello world my name is joe
 		
 		<?php
 	};
