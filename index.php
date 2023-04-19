@@ -1,3 +1,9 @@
+<?php 
+
+	include "api/includes.php"; 
+
+?>
+
 <!DOCTYPE html>
 
 <html>
@@ -22,9 +28,9 @@
 	<body>
 		
 		<?php
-		
+			
 			nav_markup();
-		
+			
 		?>
 		
 		
