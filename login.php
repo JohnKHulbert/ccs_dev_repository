@@ -7,9 +7,9 @@
 	function nav_markup() {
 		
 		?>
-		<div class="test">o\'brian</div>;
+		hello world;
+		
 		<?php
-			
 	};
 	
 	function print_markup() {
