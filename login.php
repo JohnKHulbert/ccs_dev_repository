@@ -1,16 +1,12 @@
 <?php
+
+	include "api/includes.php";
 	
 	nav_markup();
 	
 	//print_markup();
 	
-	function nav_markup() {
-		
-		?>
-		hello world;
-		
-		<?php
-	};
+	
 	
 	function print_markup() {
 ?>
