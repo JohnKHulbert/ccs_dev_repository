@@ -4,7 +4,7 @@
 	
 	//nav_markup();
 	
-	//print_markup();
+	print_markup();
 	
 	
 	
