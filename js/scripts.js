@@ -4,8 +4,6 @@ $(document).on("click", "#loginbtn", function() {
 	
 	window.location.href = "login.php";
 	
-	alert("1");
-	
 });
  
  
