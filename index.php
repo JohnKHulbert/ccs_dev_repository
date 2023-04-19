@@ -27,7 +27,7 @@
 
 	<body>
 		
-		<?php nav_markup(); ?>		
+		<?php echo nav_markup(); ?>		
 		
 		<div>
 			
