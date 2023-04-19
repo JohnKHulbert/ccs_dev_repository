@@ -3,7 +3,11 @@
 	function nav_markup() {
 		
 		?>
-		hello world my name is joe
+		<nav>
+	
+			<button id="loginbtn" class="btn btn-primary redbackground redborder">Login</button>
+	
+		</nav>
 		
 		<?php
 	};

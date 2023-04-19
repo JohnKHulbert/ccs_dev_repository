@@ -21,11 +21,14 @@
 
 	<body>
 		
-		<nav>
+		<?php
 		
-			<button id="loginbtn" class="btn btn-primary redbackground redborder">Login</button>
+			nav_markup();
 		
-		</nav>
+		?>
+		
+		
+		
 		
 		<div>
 			
