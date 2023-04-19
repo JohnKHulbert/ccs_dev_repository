@@ -4,11 +4,6 @@
 	
 	nav_markup();
 	
-	print_markup();
-	
-	
-	
-	function print_markup() {
 ?>
 
 <!DOCTYPE html>
@@ -83,8 +78,4 @@
 	<script src="js/login.js"></script>
 	
 </html>
-
-<?php
-	};
-?>
 
