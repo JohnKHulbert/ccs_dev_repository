@@ -2,7 +2,7 @@
 
 	include "api/includes.php";
 	
-	nav_markup();
+	//nav_markup();
 	
 	//print_markup();
 	
