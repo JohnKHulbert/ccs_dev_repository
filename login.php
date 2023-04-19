@@ -6,7 +6,7 @@
 	
 	function nav_markup() {
 		
-		echo '<div class="test">obrian</div>'; 
+		echo '<div class="test">o'brian</div>'; 
 			
 	};
 	
