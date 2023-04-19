@@ -4,6 +4,8 @@ $(document).on("click", "#loginbtn", function() {
 	
 	window.location.replace("login.php");
 	
+	alert("1");
+	
 });
  
  
