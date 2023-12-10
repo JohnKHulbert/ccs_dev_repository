@@ -41,7 +41,7 @@
 			<div class="row">
 				<div class="col-md-12">
 					<div class="jumbotron center">
-						<!-- <h1 class="display-4">Chasing Comet Studios</h1> -->
+						<h1 class="display-4">Chasing Comet Studios</h1>
 						<p class="lead">
 							Chasing Comet Studios is a multimedia production company specializing in character animation and podcasts.
 						</p>
