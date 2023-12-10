@@ -32,7 +32,8 @@
 		<div>
 			
 			<div class="center">
-				<img src="img/ccslogo.png"/>
+				<!-- <img src="img/ccslogo.png"/> -->
+				<img src="img/sexy_john_hulbert.jpg"/>
 			</div>
 			
 		</div>
