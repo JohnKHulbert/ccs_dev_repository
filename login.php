@@ -2,6 +2,8 @@
 
 	include "api/includes.php";
 	
+	phpinfo();
+	
 ?>
 
 <!DOCTYPE html>
