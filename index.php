@@ -32,7 +32,7 @@
 		<div>
 			
 			<div class="center">
-				<img class="small" src="img/ccslogo.png"/>
+				<img src="img/ccslogo.png"/>
 			</div>
 			
 		</div>
