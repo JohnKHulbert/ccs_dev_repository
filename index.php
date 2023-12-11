@@ -33,7 +33,6 @@
 			
 			<div class="center">
 				<img src="img/ccslogo.png"/>
-				<!--<img style=" width:80%;" src="img/sexy_john_hulbert.jpg"/> -->
 			</div>
 			
 		</div>
