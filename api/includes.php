@@ -1,8 +1,8 @@
 <?php
 
-	function login_nav_markup() {
+	function login_nav_markup($first_name) {
 		
-		//echo first_name;
+		echo $first_name;
 		
 	?>
 		<nav style="height:50px;">
