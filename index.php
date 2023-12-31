@@ -27,7 +27,7 @@
 
 	<body>
 		
-		<?php login_nav_markup(); ?>		
+		<?php login_nav_markup("swish"); ?>		
 		
 		<div>
 			
