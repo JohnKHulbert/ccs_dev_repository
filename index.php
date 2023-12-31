@@ -27,7 +27,7 @@
 
 	<body>
 		
-		<?php login_nav_markup("swish"); ?>		
+		<?php login_nav_markup("swish"); ?>	Swisher is Swishery	
 		
 		<div>
 			
