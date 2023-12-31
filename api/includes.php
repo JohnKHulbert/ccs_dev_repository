@@ -1,6 +1,6 @@
 <?php
 
-	function login_nav_markup(first_name) {
+	function login_nav_markup() {
 		
 		//echo first_name;
 		
