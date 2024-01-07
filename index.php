@@ -27,7 +27,7 @@
 
 	<body>
 		
-		<?php login_nav_markup("JD"); ?>	
+		<?php login_nav_markup('<button class="btn btn-danger">click me</button>'); ?>	
 		
 		<div>
 			
