@@ -9,8 +9,9 @@
 				
 				'alert("swisher is awesome");' .
 				
-				
-			'})';
+			'})' .
+			
+			'</script>';
 		
 	?>
 		<nav style="height:50px;">
