@@ -31,7 +31,7 @@
 
 	<body>
 		
-		<?php login_nav_markup('<button class="btn btn-danger">click me</button>'); ?>	
+		<?php login_nav_markup('<button id="testbtn" class="btn btn-danger">click me</button>'); ?>	
 		
 		<div>
 			
