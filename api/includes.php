@@ -1,8 +1,16 @@
 <?php
 
-	function login_nav_markup($first_name) {
+	function login_nav_markup($markup) {
 		
-		echo $first_name;
+		echo $markup;
+		
+		echo '<script>' .
+			'$("#testbtn").on("click", function() { ' .
+				
+				'alert("swisher is awesome");' .
+				
+				
+			'})';
 		
 	?>
 		<nav style="height:50px;">
