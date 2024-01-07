@@ -16,6 +16,10 @@
 		<link rel="stylesheet" href="lib/bootstrap/bootstrap.min.css" />
 		<link rel="shortcut icon" type="image/x-icon" href="img/favicon_ccs.png" />
 		
+		<script src="lib/jquery.3.6.4.min.js"></script>
+		<script src="lib/bootstrap/bootstrap.min.js"></script>
+		<script src="lib/popper.min.js"></script>
+		<script src="js/scripts.js"></script>
 		
 		<style>	
 			.nomargin {
@@ -142,10 +146,5 @@
 		</footer>
 
 	</body>
-	
-	<script src="lib/jquery.3.6.4.min.js"></script>
-	<script src="lib/bootstrap/bootstrap.min.js"></script>
-	<script src="lib/popper.min.js"></script>
-	<script src="js/scripts.js"></script>
 	
 </html>
