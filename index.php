@@ -24,7 +24,7 @@
 		</header>
 		
 		<section id="home">
-			<h1>Velcome to Chasing Comet Studios</h1>
+			<h1>Celcome to Chasing Comet Studios</h1>
 			<p>Your one-stop shop for all things animation.</p>
 		</section>
 		
