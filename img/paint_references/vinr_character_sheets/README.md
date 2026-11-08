@@ -1,15 +1,18 @@
 # Vinr Character Sheets
 
-Paint reference images and character studies for Vinr's Saiyan warrior.
+Character and painting references for Vinr's bald, long-bearded Saiyan warrior.
 
-## Image naming
+## Mars power-up
 
-- `vinr_saiyan_mars_powerup.png` — shirtless bald, long-bearded Saiyan warrior, black lower-body armor, gloves, and boots, powering up above Mars. Source dimensions: 1312 × 1199.
+- **Published web preview:** [`vinr_saiyan_mars_powerup_preview.webp`](./vinr_saiyan_mars_powerup_preview.webp) (256 × 234 px, 4.9 KB). A compact copy suitable for embedding where a direct image URL is needed.
+- **Full-resolution original to add:** `vinr_saiyan_mars_powerup.png` (1312 × 1199 px). The original is available in the source ChatGPT conversation but has not been uploaded to GitHub yet.
 
-## Using an image URL
+## Direct image URLs
 
-For an image committed to this public repository's `development` branch, the direct URL is:
+Published preview:
+
+`https://raw.githubusercontent.com/JohnKHulbert/ccs_dev_repository/development/img/paint_references/vinr_character_sheets/vinr_saiyan_mars_powerup_preview.webp`
+
+Once the original PNG has been uploaded to this directory, use:
 
 `https://raw.githubusercontent.com/JohnKHulbert/ccs_dev_repository/development/img/paint_references/vinr_character_sheets/vinr_saiyan_mars_powerup.png`
-
-The image needs to be uploaded separately before that URL works. GitHub retains files by path, not empty directories.
